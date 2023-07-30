@@ -4,6 +4,8 @@ Welcome to our Food Website! This web application is designed to provide users w
 
 # Features
 Recipe Collection: Explore a vast collection of recipes from various cuisines and categories. There are many  new foods you may not know, and serving suggestions.
+Search and Filter: Easily find specific products by using the search bar.
+Responsive Design: The website is fully responsive, ensuring an optimal shopping experience on both desktop and mobile devices.
 
 # User Accounts: 
 Create and save your favorite list Food, create custom collections, and make them in Watch List and Watched .
